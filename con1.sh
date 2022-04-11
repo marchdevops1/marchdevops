@@ -1,3 +1,6 @@
 hi 
 hello
-goog morning
+good morning
+good evening
+good night
+devops
